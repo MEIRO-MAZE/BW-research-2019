@@ -1,0 +1,38 @@
+RAM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+RANK                                                              0x0160      16
+rx_buffer                                                         0x0170       8
+FLAME_ANALOG                                                      0x0178      18
+COMMAND_FLAG_A                                                    0x018A       2
+COMMAND_FLAG_B                                                    0x018C       2
+MAX_VAL                                                           0x018E       2
+NO_FLAME                                                          0x0190       2
+FLAME_REAR_LEFT                                                   0x0192       2
+FLAME_LEFT                                                        0x0194       2
+FLAME_ASKEW_LEFT                                                  0x0196       2
+FLAME_FRONT                                                       0x0198       2
+FLAME_ASKEW_RIGHT                                                 0x019A       2
+FLAME_RIGHT                                                       0x019C       2
+FLAME_REAR_RIGHT                                                  0x019E       2
+FLAME_CENTER                                                      0x01A0       2
+m                                                                 0x01A2       2
+k                                                                 0x01A4       2
+flame_buffer                                                      0x01A6       4
+SELECT                                                            0x01AA      16
+_seed                                                             0x01BA       4
+
+EEPROM Allocation
+Variable                                                          Address   Size
+--------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                          Register  Size
+--------------------------------------------------------------------------------
+baud_mode                                                         R4,R5        2
+rx_wr_index                                                       R7           1
+rx_rd_index                                                       R6           1
+rx_counter                                                        R9           1
+rx_buffer_overflow                                                R2.0      1bit
+FRONT_ANALOG                                                      R10,R11      2
+FLAME_SENSOR                                                      R12,R13      2

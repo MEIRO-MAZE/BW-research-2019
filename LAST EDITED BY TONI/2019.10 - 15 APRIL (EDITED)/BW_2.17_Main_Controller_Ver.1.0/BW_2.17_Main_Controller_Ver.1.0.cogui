@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024">
+<orientation position="512" view="org.eclipse.debug.ui.ExpressionView"/>
+<orientation position="512" view="org.coocox.component.ui.ComponentView"/>
+<orientation position="512" view="org.coocox.builder.ui.views.ProjectView"/>
+<orientation position="512" view="org.coocox.codebugger.trace.ui.traceview"/>
+<orientation position="512" view="org.eclipse.ui.console.ConsoleView"/>
+<orientation position="512" view="org.eclipse.debug.ui.VariableView"/>
+<orientation position="512" view="org.coocox.component.ui.Help"/>
+</fastViewData>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="8"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/main.c" title="main.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="9208" selectionTopPixel="7123"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.c" partName="bw2017_algorithm.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c" title="bw2017_algorithm.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="12" selectionOffset="458770" selectionTopPixel="288031"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="BW_I2C_EEPROM.c" partName="BW_I2C_EEPROM.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/BW_Library/BW_I2C_EEPROM.c" title="BW_I2C_EEPROM.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/BW_Library/BW_I2C_EEPROM.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/BW_I2C_EEPROM.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="12519" selectionTopPixel="8330"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.c" partName="bw_global_var.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c" title="bw_global_var.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="21" selectionOffset="34068" selectionTopPixel="22372"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_cmps11.h" partName="bw_cmps11.h" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.h" title="bw_cmps11.h" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="5628" selectionTopPixel="3417"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_i2c_lcd.c" partName="bw_i2c_lcd.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_i2c_lcd.c" title="bw_i2c_lcd.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_i2c_lcd.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_i2c_lcd.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1266" selectionTopPixel="425"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" partName="stdio.h" title="stdio.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\stdio.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\stdio.h" project="BW_2.17_Main_Controller_Ver.1.0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="6964" selectionTopPixel="3553"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_rotary_switch.c" partName="bw_rotary_switch.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c" title="bw_rotary_switch.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1726" selectionTopPixel="567"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="bw_dynamixel_hexapod_cmd.c" partName="bw_dynamixel_hexapod_cmd.c" path="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c" title="bw_dynamixel_hexapod_cmd.c" tooltip="E:/KEGIATAN ROBOTIC/===BATHARA WIJAYA===/THIRD YEAR KRPAI SOFWARE/MAIN PROGRAM BW 2019/2019.10 - 12 APRIL (EDITED)/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="648850" selectionTopPixel="204136"/>
+</editor>
+</editors>
+<views>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="43">
+<expanded>
+<element path="/BW_2.17_Main_Controller_Ver.1.0"/>
+<element path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library"/>
+</expanded>
+<selection>
+<element path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.eclipse.ui.views.ContentOutline" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@a92668">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a92668">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1bb8ebc" ratio="0.76996803" ratioLeft="482" ratioRight="144" relationship="4" relative="org.eclipse.ui.internal.ViewStack@a92668">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.21549815" ratioLeft="292" ratioRight="1063" relationship="2" relative="org.eclipse.ui.internal.ViewStack@a92668"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1158ac" ratio="0.7198113" ratioLeft="763" ratioRight="297" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.eclipse.ui.views.ContentOutline" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@ce0a8b" ratio="0.4499205" ratioLeft="283" ratioRight="346" relationship="4" relative="org.coocox.builder.ui.exampleView">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24976437" ratioLeft="265" ratioRight="796" relationship="2" relative="org.eclipse.ui.internal.ViewStack@ce0a8b"/>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c"/>
+</editors>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="916751" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="917756" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1017576" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="692106" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="700863" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1023004" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="740620" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="743027" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007352" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="514983" y="20"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="534093" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1017134" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="916751" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="916772" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1017576" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="692106" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="703018" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007358" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="514983" y="20"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="534545" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1017575" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="694267" y="0"/>
+</item>
+<item historyLabel="bw_dynamixel_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="648850" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="694267" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="691941" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007086" y="17"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="1007369" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="514983" y="20"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="535522" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="740620" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="741335" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="692106" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="691885" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="514983" y="20"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="533259" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="692106" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="697807" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="692106" y="11"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="701855" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="459080" y="0"/>
+</item>
+<item historyLabel="bw_dynamixel_hexapod_cmd.c" index="1">
+<position info="not_deleted" x="648850" y="0"/>
+</item>
+<item historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="459080" y="0"/>
+</item>
+<item active="true" historyLabel="bw2017_algorithm.c" index="0">
+<position info="not_deleted" x="458770" y="12"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_rotary_switch.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_rotary_switch.c"/>
+</file>
+<file factoryID="org.eclipse.cdt.ui.ExternalEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stdio.h" tooltip="C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\stdio.h">
+<persistable path="C:\Program Files (x86)\GNU Tools ARM Embedded\4.8 2014q1\arm-none-eabi\include\stdio.h" project="BW_2.17_Main_Controller_Ver.1.0"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_i2c_lcd.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_i2c_lcd.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_i2c_lcd.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_cmps11.h" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.h">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_global_var.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_global_var.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="BW_I2C_EEPROM.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/BW_I2C_EEPROM.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/BW_I2C_EEPROM.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_dynamixel_hexapod_cmd.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_dynamixel_hexapod_cmd.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw2017_algorithm.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw2017_algorithm.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="bw_cmps11.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/BW_Library/bw_cmps11.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="BW_2.17_Main_Controller_Ver.1.0/main.c">
+<persistable path="/BW_2.17_Main_Controller_Ver.1.0/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="TEUB_USART.c" tooltip="KRAI-2019-MR2/Bismillah_Internasional/USART/TEUB_USART.c">
+<persistable path="/KRAI-2019-MR2/Bismillah_Internasional/USART/TEUB_USART.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tasks.c" tooltip="KRAI-2019-MR2/FreeRTOSv10.0.0/Source/tasks.c">
+<persistable path="/KRAI-2019-MR2/FreeRTOSv10.0.0/Source/tasks.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="delay.c" tooltip="Rangefinder_SYSTEM/stm_lib/src/delay.c">
+<persistable path="/Rangefinder_SYSTEM/stm_lib/src/delay.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x_rcc.h" tooltip="Rangefinder_SYSTEM/stm_lib/inc/stm32f10x_rcc.h">
+<persistable path="/Rangefinder_SYSTEM/stm_lib/inc/stm32f10x_rcc.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="stm32f10x_gpio.h" tooltip="Rangefinder_SYSTEM/stm_lib/inc/stm32f10x_gpio.h">
+<persistable path="/Rangefinder_SYSTEM/stm_lib/inc/stm32f10x_gpio.h"/>
+</file>
+</mruList>
+</workbench>

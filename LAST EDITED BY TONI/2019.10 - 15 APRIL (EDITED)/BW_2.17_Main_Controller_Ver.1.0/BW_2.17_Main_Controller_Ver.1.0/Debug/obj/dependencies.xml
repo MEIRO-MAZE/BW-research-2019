@@ -1,0 +1,625 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019 /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0\cmsis /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0\cmsis_boot /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0\BW_Library /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED) /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib\include /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL (EDITED)\BW_2.17_Main_Controller_Ver.1.0">
+      <source file="..\..\..\BW_Library\bw_UV-TRON.h" lastModified="168e1c91855">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_UV-TRON.c" lastModified="168e1c9189a">
+         <include file="..\..\..\BW_Library\bw_UV-TRON.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_user_interface.h" lastModified="1665e9efaaf">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\BW_Library\bw_macro_lib.h"/>
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_ax_12a.h" lastModified="169f708e904">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_user_interface.c" lastModified="16659e96253">
+         <include file="..\..\..\BW_Library\bw_user_interface.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_ax_12a.c" lastModified="169fdbc478e">
+         <include file="..\..\..\BW_Library\bw_dynamixel_ax_12a.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4.h" lastModified="15923b23658">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+         <include file="..\..\..\cmsis\core_cm4_simd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15923b30d30">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bldc_fan.h" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="15923b23270">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bldc_fan.c" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\bw_bldc_fan.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_utilities.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15923b44d80">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050_receiver.h" lastModified="15a326bdc70">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_xl_320.h" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_utilities.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_utilities.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sharp_ir.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050_receiver.c" lastModified="15b1ce98630">
+         <include file="..\..\..\BW_Library\bw_mpu6050_receiver.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_xl_320.c" lastModified="15967674be0">
+         <include file="..\..\..\BW_Library\bw_dynamixel_xl_320.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\BW_I2C_EEPROM.h" lastModified="169e19c8fc5">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Code.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Library\BW_I2C_EEPROM.c" lastModified="169ee18672a">
+         <include file="..\..\..\BW_Library\BW_I2C_EEPROM.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_cmps11.h" lastModified="1685a717dea">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Code.c" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15923b23270">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_cmps11.c" lastModified="1695d93d68f">
+         <include file="..\..\..\BW_Library\bw_cmps11.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.h" lastModified="16a0951d731">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx.h" lastModified="15923b635c8">
+         <include file="..\..\..\cmsis\core_cm4.h"/>
+         <include file="..\..\..\cmsis_boot\system_stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_boot\stm32f4xx_conf.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_extinguisher.h" lastModified="169ae447641">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_systick_delay.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.c" lastModified="16a0d76aa13">
+         <include file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15923b33c10">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_extinguisher.c" lastModified="169e8da91f5">
+         <include file="..\..\..\BW_Library\bw_extinguisher.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_systick_delay.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sound_activation.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sound_activation.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_sound_activation.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_receiver.h" lastModified="1695dd21e80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_receiver.c" lastModified="168e1e68c10">
+         <include file="..\..\..\BW_Library\bw_ping_receiver.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="15923b23270">
+      </source>
+      <source file="..\..\..\BW_Phoenix_Driver_AX12.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="15923b23658">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15923b631e0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_gy_85.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Driver_AX12.c" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Library\bw_gy_85.c" lastModified="15ffeb09410">
+         <include file="..\..\..\BW_Library\bw_gy_85.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_usart_comm.h" lastModified="168dd6d98bb">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_mpu6050.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_articulated_manipulator.h" lastModified="15b7234bab0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_usart_comm.c" lastModified="169ed128588">
+         <include file="..\..\..\BW_Library\bw_usart_comm.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tpa_servo.h" lastModified="169af3c8686">
+         <include file="..\..\..\BW_Library\main.h"/>
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_articulated_manipulator.c" lastModified="15b71fc4d60">
+         <include file="..\..\..\BW_Library\bw_articulated_manipulator.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_interrupt_monitor.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_i2c_lcd.h" lastModified="1667dc73e25">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tpa_servo.c" lastModified="1685f9c675d">
+         <include file="..\..\..\BW_Library\bw_tpa_servo.h"/>
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="15923b25980">
+      </source>
+      <source file="..\..\..\BW_Library\bw_interrupt_monitor.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_interrupt_monitor.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_i2c_lcd.c" lastModified="1667dfada51">
+         <include file="..\..\..\BW_Library\bw_i2c_lcd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tcs3200_receiver.h" lastModified="169eed23c5e">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_global_var.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tcs3200_receiver.c" lastModified="169da3c2102">
+         <include file="..\..\..\BW_Library\bw_tcs3200_receiver.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_controller.h" lastModified="169ae846e05">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_global_var.c" lastModified="16a0d8a6a53">
+         <include file="..\..\..\BW_Library\bw_global_var.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="15923b23658">
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_controller.c" lastModified="16a0d81f404">
+         <include file="..\..\..\BW_Library\bw_pid_controller.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_macro_lib.h" lastModified="15923dbd698">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h" lastModified="15923b33c10">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\stm32f4xx_conf.h" lastModified="15923b27ca8">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_lcd.h" lastModified="15923dbd2b0">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h" lastModified="15923b324a0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_rotary_switch.h" lastModified="16659761634">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_lcd.c" lastModified="1667828fd54">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\BW_Library\bw_lcd.h"/>
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+         <include file="..\..\..\BW_Library\bw_i2c_lcd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_rotary_switch.c" lastModified="16975eb9a59">
+         <include file="..\..\..\BW_Library\bw_rotary_switch.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\main.h" lastModified="16948bc8785">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+         <include file="..\..\..\BW_Library\bw_macro_lib.h"/>
+         <include file="..\..\..\BW_Library\bw_global_var.h"/>
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+         <include file="..\..\..\BW_Hex_Cfg.h"/>
+         <include file="..\..\..\BW_Phoenix.h"/>
+         <include file="..\..\..\BW_Phoenix_Code.h"/>
+         <include file="..\..\..\BW_Phoenix_Driver_AX12.h"/>
+         <include file="..\..\..\BW_Library\bw_user_interface.h"/>
+         <include file="..\..\..\BW_Library\bw_rotary_switch.h"/>
+         <include file="..\..\..\BW_Library\bw_lcd.h"/>
+         <include file="..\..\..\BW_Library\bw_sound_activation.h"/>
+         <include file="..\..\..\BW_Library\bw_infrared_proximity.h"/>
+         <include file="..\..\..\BW_Library\bw_bumper.h"/>
+         <include file="..\..\..\BW_Library\bw_UV-TRON.h"/>
+         <include file="..\..\..\BW_Library\bw_tpa_servo.h"/>
+         <include file="..\..\..\BW_Library\bw_bldc_fan.h"/>
+         <include file="..\..\..\BW_Library\bw_extinguisher.h"/>
+         <include file="..\..\..\BW_Library\bw_ping_variables.h"/>
+         <include file="..\..\..\BW_Library\bw_pid_var.h"/>
+         <include file="..\..\..\BW_Library\bw_ping_receiver.h"/>
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+         <include file="..\..\..\BW_Library\bw_usart_comm.h"/>
+         <include file="..\..\..\BW_Library\bw_cmps11.h"/>
+         <include file="..\..\..\BW_Library\bw_pid_controller.h"/>
+         <include file="..\..\..\BW_Library\bw_utilities.h"/>
+         <include file="..\..\..\BW_Library\bw_dynamixel_xl_320.h"/>
+         <include file="..\..\..\BW_Library\bw_sharp_ir.h"/>
+         <include file="..\..\..\BW_Library\bw2017_algorithm.h"/>
+         <include file="..\..\..\BW_Library\bw_flame_sensor.h"/>
+         <include file="..\..\..\BW_Library\bw_dynamixel_ax_12a.h"/>
+         <include file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.h"/>
+         <include file="..\..\..\BW_Library\bw_mpu6050_receiver.h"/>
+         <include file="..\..\..\BW_Library\bw_tcs3200_receiver.h"/>
+         <include file="..\..\..\BW_Library\BW_I2C_EEPROM.h"/>
+      </source>
+      <source file="..\..\..\BW_Hex_Cfg.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Phoenix.h" lastModified="15f9755de60">
+      </source>
+      <source file="..\..\..\BW_Library\bw_hexapod_cmd.h" lastModified="160276a3500">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_infrared_proximity.h" lastModified="166c0fe49d5">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_hexapod_cmd.c" lastModified="15fa13a2fd0">
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cm4_simd.h" lastModified="15923b23658">
+      </source>
+      <source file="..\..\..\BW_Library\bw_infrared_proximity.c" lastModified="166c0c66611">
+         <include file="..\..\..\BW_Library\bw_infrared_proximity.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bumper.h" lastModified="167749f79d0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h" lastModified="15923b30d30">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bumper.c" lastModified="167ad13b91d">
+         <include file="..\..\..\BW_Library\bw_bumper.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15923b62a10">
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_variables.h" lastModified="158af390ef0">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="15923b44d80">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_flame_sensor.h" lastModified="15ffe9c8f10">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="16a0d739a93">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_flame_sensor.c" lastModified="15b727ec3d0">
+         <include file="..\..\..\BW_Library\bw_flame_sensor.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw2017_algorithm.h" lastModified="169edd7ea2f">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15923b324a0">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_var.h" lastModified="15923dbd2b0">
+      </source>
+      <source file="..\..\..\BW_Library\bw2017_algorithm.c" lastModified="16a1d908eae">
+         <include file="..\..\..\BW_Library\bw2017_algorithm.h"/>
+      </source>
+   </includePath>
+   <includePath signature="/IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019 /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib\include /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0 /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0\cmsis_boot /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0\cmsis_lib /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0\BW_Library /IE:\KEGIATAN ROBOTIC\===BATHARA WIJAYA===\THIRD YEAR KRPAI SOFWARE\MAIN PROGRAM BW 2019\2019.10 - 12 APRIL\BW_2.17_Main_Controller_Ver.1.0\cmsis">
+      <source file="..\..\..\BW_Library\bw_UV-TRON.h" lastModified="168e1c91855">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_UV-TRON.c" lastModified="168e1c9189a">
+         <include file="..\..\..\BW_Library\bw_UV-TRON.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_user_interface.h" lastModified="1665e9efaaf">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\BW_Library\bw_macro_lib.h"/>
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_user_interface.c" lastModified="16659e96253">
+         <include file="..\..\..\BW_Library\bw_user_interface.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_ax_12a.c" lastModified="169fdbc478e">
+         <include file="..\..\..\BW_Library\bw_dynamixel_ax_12a.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_i2c.c" lastModified="15923b30d30">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bldc_fan.h" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\misc.h" lastModified="15923b23270">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bldc_fan.c" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\bw_bldc_fan.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_utilities.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_tim.c" lastModified="15923b44d80">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050_receiver.h" lastModified="15a326bdc70">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_xl_320.h" lastModified="15923dbda80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_utilities.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_utilities.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sharp_ir.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050_receiver.c" lastModified="15b1ce98630">
+         <include file="..\..\..\BW_Library\bw_mpu6050_receiver.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_xl_320.c" lastModified="15967674be0">
+         <include file="..\..\..\BW_Library\bw_dynamixel_xl_320.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\BW_I2C_EEPROM.h" lastModified="169e19c8fc5">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Code.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Library\BW_I2C_EEPROM.c" lastModified="169ee18672a">
+         <include file="..\..\..\BW_Library\BW_I2C_EEPROM.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_cmps11.h" lastModified="1685a717dea">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Code.c" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\cmsis_lib\source\misc.c" lastModified="15923b23270">
+         <include file="..\..\..\cmsis_lib\include\misc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_cmps11.c" lastModified="1695d93d68f">
+         <include file="..\..\..\BW_Library\bw_cmps11.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.h" lastModified="16a0951d731">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_extinguisher.h" lastModified="169ae447641">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_systick_delay.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.c" lastModified="16a0d76aa13">
+         <include file="..\..\..\BW_Library\bw_dynamixel_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_usart.c" lastModified="15923b33c10">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_extinguisher.c" lastModified="169e8da91f5">
+         <include file="..\..\..\BW_Library\bw_extinguisher.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_systick_delay.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sound_activation.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_sound_activation.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_sound_activation.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_receiver.h" lastModified="1695dd21e80">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_receiver.c" lastModified="168e1e68c10">
+         <include file="..\..\..\BW_Library\bw_ping_receiver.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.h" lastModified="15923b23270">
+      </source>
+      <source file="..\..\..\BW_Phoenix_Driver_AX12.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\cmsis_boot\system_stm32f4xx.c" lastModified="15923b631e0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_gy_85.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Phoenix_Driver_AX12.c" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Library\bw_gy_85.c" lastModified="15ffeb09410">
+         <include file="..\..\..\BW_Library\bw_gy_85.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_usart_comm.h" lastModified="168dd6d98bb">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_mpu6050.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_mpu6050.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_articulated_manipulator.h" lastModified="15b7234bab0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_usart_comm.c" lastModified="169ed128588">
+         <include file="..\..\..\BW_Library\bw_usart_comm.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tpa_servo.h" lastModified="169af3c8686">
+         <include file="..\..\..\BW_Library\main.h"/>
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_articulated_manipulator.c" lastModified="15b71fc4d60">
+         <include file="..\..\..\BW_Library\bw_articulated_manipulator.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_interrupt_monitor.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_i2c_lcd.h" lastModified="1667dc73e25">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tpa_servo.c" lastModified="1685f9c675d">
+         <include file="..\..\..\BW_Library\bw_tpa_servo.h"/>
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_interrupt_monitor.c" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\bw_interrupt_monitor.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_i2c_lcd.c" lastModified="1667dfada51">
+         <include file="..\..\..\BW_Library\bw_i2c_lcd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tcs3200_receiver.h" lastModified="169eed23c5e">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_global_var.h" lastModified="15923dbd2b0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_tcs3200_receiver.c" lastModified="169da3c2102">
+         <include file="..\..\..\BW_Library\bw_tcs3200_receiver.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_controller.h" lastModified="169ae846e05">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_global_var.c" lastModified="16a0d8a6a53">
+         <include file="..\..\..\BW_Library\bw_global_var.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_controller.c" lastModified="16a0d81f404">
+         <include file="..\..\..\BW_Library\bw_pid_controller.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_usart.h" lastModified="15923b33c10">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_lcd.h" lastModified="15923dbd2b0">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h" lastModified="15923b324a0">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_rotary_switch.h" lastModified="16659761634">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_lcd.c" lastModified="1667828fd54">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\BW_Library\bw_lcd.h"/>
+         <include file="..\..\..\BW_Library\bw_systick_delay.h"/>
+         <include file="..\..\..\BW_Library\bw_i2c_lcd.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_rotary_switch.c" lastModified="16975eb9a59">
+         <include file="..\..\..\BW_Library\bw_rotary_switch.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_rcc.c" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Hex_Cfg.h" lastModified="15f97576cd0">
+      </source>
+      <source file="..\..\..\BW_Phoenix.h" lastModified="15f9755de60">
+      </source>
+      <source file="..\..\..\BW_Library\bw_hexapod_cmd.h" lastModified="160276a3500">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_gpio.c" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_infrared_proximity.h" lastModified="166c0fe49d5">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_hexapod_cmd.c" lastModified="15fa13a2fd0">
+         <include file="..\..\..\BW_Library\bw_hexapod_cmd.h"/>
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_infrared_proximity.c" lastModified="166c0c66611">
+         <include file="..\..\..\BW_Library\bw_infrared_proximity.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bumper.h" lastModified="167749f79d0">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_i2c.h" lastModified="15923b30d30">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_bumper.c" lastModified="167ad13b91d">
+         <include file="..\..\..\BW_Library\bw_bumper.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_stm32f4xx.c" lastModified="15923b62a10">
+      </source>
+      <source file="..\..\..\BW_Library\bw_ping_variables.h" lastModified="158af390ef0">
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_gpio.h" lastModified="15923b2de50">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\include\stm32f4xx_tim.h" lastModified="15923b44d80">
+         <include file="..\..\..\cmsis_boot\stm32f4xx.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_flame_sensor.h" lastModified="15ffe9c8f10">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\main.c" lastModified="16a0d739a93">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_flame_sensor.c" lastModified="15b727ec3d0">
+         <include file="..\..\..\BW_Library\bw_flame_sensor.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw2017_algorithm.h" lastModified="169edd7ea2f">
+         <include file="..\..\..\BW_Library\main.h"/>
+      </source>
+      <source file="..\..\..\cmsis_lib\source\stm32f4xx_adc.c" lastModified="15923b324a0">
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_adc.h"/>
+         <include file="..\..\..\cmsis_lib\include\stm32f4xx_rcc.h"/>
+      </source>
+      <source file="..\..\..\BW_Library\bw_pid_var.h" lastModified="15923dbd2b0">
+      </source>
+   </includePath>
+</dependencies>

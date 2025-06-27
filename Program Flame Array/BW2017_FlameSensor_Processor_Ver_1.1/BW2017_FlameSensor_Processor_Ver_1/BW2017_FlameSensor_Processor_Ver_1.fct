@@ -1,0 +1,4 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"BW2017_FlameSensor_Processor_Ver_1.c" LINE:217
+bubbleSort DSTACK_USAGE:8 DSTACK_LEVEL:8 FILE:"BW2017_FlameSensor_Processor_Ver_1.c" LINE:206
+swap DSTACK_USAGE:6 DSTACK_LEVEL:14 FILE:"BW2017_FlameSensor_Processor_Ver_1.c" LINE:199
+usart_rx_isr DSTACK_USAGE:5 DSTACK_LEVEL:19 FILE:"BW2017_FlameSensor_Processor_Ver_1.c" LINE:92

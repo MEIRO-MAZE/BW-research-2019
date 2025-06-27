@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DSTM32F103C8 -DSTM32F10X_MD -DUSE_STDPERIPH_DRIVER -D__ASSEMBLY__ -IE:\KRPAI\Proyek -IE:\KRPAI\Proyek\Rangefinder_SYSTEM\stm_lib -IE:\KRPAI\Proyek\Rangefinder_SYSTEM\Rangefinder_SYSLIB -IE:\KRPAI\Proyek\Rangefinder_SYSTEM\cmsis -IE:\KRPAI\Proyek\Rangefinder_SYSTEM\stm_lib\inc -IE:\KRPAI\Proyek\Rangefinder_SYSTEM -IE:\KRPAI\Proyek\Rangefinder_SYSTEM\cmsis_boot">
+      <target file="i2c_VL53L0X.o" lastModified="167749a6b2e">
+         <source file="..\..\..\Rangefinder_SYSLIB\i2c_VL53L0X.c" lastModified="1654b6eb309"/>
+      </target>
+      <target file="stm32f10x_adc.o" lastModified="16635bd2433">
+         <source file="..\..\..\stm_lib\src\stm32f10x_adc.c" lastModified="1629f9e7f34"/>
+      </target>
+      <target file="syscalls.o" lastModified="16635bd257c">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="1629f9e3b6d"/>
+      </target>
+      <target file="i2c_Pixy.o" lastModified="167749a6bf4">
+         <source file="..\..\..\Rangefinder_SYSLIB\i2c_Pixy.c" lastModified="1654b580741"/>
+      </target>
+      <target file="stm32f10x_tim.o" lastModified="16635bd1e1a">
+         <source file="..\..\..\stm_lib\src\stm32f10x_tim.c" lastModified="1629f9e6f66"/>
+      </target>
+      <target file="stm32f10x_i2c.o" lastModified="16635bd27b9">
+         <source file="..\..\..\stm_lib\src\stm32f10x_i2c.c" lastModified="162eec8c10e"/>
+      </target>
+      <target file="system_stm32f10x.o" lastModified="16635bd1f8e">
+         <source file="..\..\..\cmsis_boot\system_stm32f10x.c" lastModified="162f876f478"/>
+      </target>
+      <target file="adc_comp.o" lastModified="167749a6c67">
+         <source file="..\..\..\Rangefinder_SYSLIB\adc_comp.c" lastModified="166ca9b1101"/>
+      </target>
+      <target file="main.o" lastModified="167749a6b97">
+         <source file="..\..\..\main.c" lastModified="167749a6606"/>
+      </target>
+      <target file="stm32f10x_usart.o" lastModified="16635bd24ec">
+         <source file="..\..\..\stm_lib\src\stm32f10x_usart.c" lastModified="1629f9e8ea2"/>
+      </target>
+      <target file="stm32f10x_gpio.o" lastModified="16635bd2184">
+         <source file="..\..\..\stm_lib\src\stm32f10x_gpio.c" lastModified="1629f9e5e33"/>
+      </target>
+      <target file="stm32f10x_rcc.o" lastModified="16635bd22ce">
+         <source file="..\..\..\stm_lib\src\stm32f10x_rcc.c" lastModified="1629f9e47d8"/>
+      </target>
+      <target file="Init_Ping)).o" lastModified="167749a6a5f">
+         <source file="..\..\..\Rangefinder_SYSLIB\Init_Ping)).c" lastModified="167749a6617"/>
+      </target>
+      <target file="delay.o" lastModified="167749a69d1">
+         <source file="..\..\..\Rangefinder_SYSLIB\delay.c" lastModified="16294addded"/>
+      </target>
+      <target file="startup_stm32f10x_md.o" lastModified="16635bd20ed">
+         <source file="..\..\..\cmsis_boot\startup\startup_stm32f10x_md.c" lastModified="1629f9e47ee"/>
+      </target>
+      <target file="misc.o" lastModified="16635bd26e5">
+         <source file="..\..\..\stm_lib\src\misc.c" lastModified="1629f9ea240"/>
+      </target>
+   </processor>
+</history>
